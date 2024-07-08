@@ -5,10 +5,7 @@ Created on Fri Jul  5 13:48:25 2024
 @author: raul.calle
 """
 
-# ==============================================================================
-import os
-
-# Tratamiento de df
+# Tratamiento de dataframe
 # ==============================================================================
 import pandas as pd
 import numpy as np
